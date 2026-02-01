@@ -72,8 +72,8 @@ Given a departure airport and a destination airport, the application:
 - Python
 - Streamlit (web interface)
 - Pandas (data processing)
-- NetworkX (graph construction and algorithms)
-- Folium / map visualization tools
+- graphviz (graph construction and algorithms)
+- map visualization tools
 - A\* search algorithm
 
 ---
